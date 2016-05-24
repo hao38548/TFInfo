@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TFInfo", "TFInfo\TFInfo.vcxproj", "{2C26E9EC-7482-4008-8369-964E2E93D412}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C26E9EC-7482-4008-8369-964E2E93D412}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2C26E9EC-7482-4008-8369-964E2E93D412}.Debug|Win32.Build.0 = Debug|Win32
+		{2C26E9EC-7482-4008-8369-964E2E93D412}.Release|Win32.ActiveCfg = Release|Win32
+		{2C26E9EC-7482-4008-8369-964E2E93D412}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
